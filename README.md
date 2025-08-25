@@ -6,8 +6,8 @@
 
 **Key Insights:**
 - Customer activity peaked on Thursdays, making it the busiest day for orders.  
-- Most ordered item was Pasta 
-- The top 5 locations contributed the highest number of orders, with Ahmedabad leading significantly.”
+- Most ordered item was Pasta.
+- The top 5 locations contributed the highest number of orders, with Ahmedabad leading significantly.
 
 **Files:**
 - Excel files for data cleaning and pivot analysis
